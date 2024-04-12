@@ -1,0 +1,7 @@
+name: BanGUI
+version: '${project.version}'
+main: com.gmail.nextinngames.bangui.BanGUI
+api-version: '1.20'
+commands:
+  bangui:
+    description: Opens the BanGUI

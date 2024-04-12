@@ -1,0 +1,11 @@
+# Configurable Ban Options
+ban-reasons:
+  wooden-axe: "Hacking/cheating"
+  stone-axe: "Banevasion"
+  iron-axe: "Griefing"
+  golden-axe: "Harrasing/spamming"
+  diamond-axe: "Stealing"
+  netherite-axe: "Pvpbypass"
+
+# Default Ban Message
+default-ban-message: "You have been banned from the server."
